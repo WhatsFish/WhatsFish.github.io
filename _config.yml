@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "lemonchann's blog"
+name: "Lee's blog"
 # Short bio or description (displayed in the header)
-description: "learning and practicing make skillfull"
+description: "YOU KNOW NOTHING"
 
 #
 # Flags below are optional
@@ -40,11 +40,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ll-chen-2
-  email: lemonchann@foxmail.com
+  zhihu: Metralix 昊洋
+  email: Metralixlhy@163.com
   facebook:
   flickr:
-  github: lemonchann 
+  github: WhatsFish
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -64,17 +64,17 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: lemonchann.github.io
-  owner: lemonchann
+  clientID: 620b1320a28dcf7debbc
+  clientSecret: 114fc1f08e07fc1bb7b5eb44ea5ddf81afdbfa20
+  repo: WhatsFish.github.io
+  owner: WhatsFish
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-152888548-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://lemonchann.github.io
+url: https://WhatsFish.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
